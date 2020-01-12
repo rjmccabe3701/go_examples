@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/rjmccabe3701/go_examples/first/morestrings"
-	"github.com/rjmccabe3701/go_examples/first/my_util"
+	"github.com/rjmccabe3701/go_examples/morestrings"
+	"github.com/rjmccabe3701/go_examples/my_util"
 	"os"
 )
 
